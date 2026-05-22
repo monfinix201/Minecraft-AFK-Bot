@@ -13,8 +13,8 @@ webServer.listen(8080, () => {
 
 // ⚙️ إعدادات الحسابات والاتصال
 const accounts = [
-    { username: 'ResbRegend234' },
-    { username: 'Ahmedmc523' }
+    { username: 'progamerJK4' },
+    { username: 'akrambnatmn' }
 ]
 const password = 'semestre50'
 const myOwner = 'edwsfc'
